@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07ae9d03b5324fe7a1ea84c9237fd627, type: 3}
+  m_Name: TargetLevel81
+  m_EditorClassIdentifier: 
+  targets:
+    array:
+    - targetType:
+        type: 0
+      sprites:
+        array:
+        - icon: {fileID: 3761246332551733805, guid: e5ad6c84a6a8c4419b528f0045146922,
+            type: 3}
+          uiSprite: 0
+        - icon: {fileID: 21300000, guid: b1bae1b486dc24f208df3500c92cdf78, type: 3}
+          uiSprite: 0
+        - icon: {fileID: -6724663290291771596, guid: 40e3838c22e134399ba3479fe3ee391a,
+            type: 3}
+          uiSprite: 0
+        - icon: {fileID: -7112018672815584295, guid: 1dd8961f593ad470a9f003715e6601b5,
+            type: 3}
+          uiSprite: 0
+      CountDrawer:
+        count: 15
+      NotFinishUntilMoveOut: 0
+      ShowTheScoreForStar:
+        ShowTheScore: 0
+    - targetType:
+        type: 0
+      sprites:
+        array:
+        - icon: {fileID: -1077529749158723009, guid: 00609a7a5bb9f4a9b89633edcfd97d78,
+            type: 3}
+          uiSprite: 0
+        - icon: {fileID: 21300000, guid: dce6ff8956dbc45f6b1d9f57614d181d, type: 3}
+          uiSprite: 0
+        - icon: {fileID: -6702545102476704807, guid: 9bf6c7842a38046b9b60af026f67bd2a,
+            type: 3}
+          uiSprite: 0
+        - icon: {fileID: -496808969963279546, guid: 4a16932c6c12b4f4282c7f6a79ec2e1b,
+            type: 3}
+          uiSprite: 0
+      CountDrawer:
+        count: 15
+      NotFinishUntilMoveOut: 0
+      ShowTheScoreForStar:
+        ShowTheScore: 0
+    - targetType:
+        type: 0
+      sprites:
+        array:
+        - icon: {fileID: 9031835955396119569, guid: 0edf19301af4941ef8ab05726d03f78d,
+            type: 3}
+          uiSprite: 0
+        - icon: {fileID: 245073185062210409, guid: 324c93c2c3c7a436188ecd1788ec59a1,
+            type: 3}
+          uiSprite: 0
+        - icon: {fileID: -6573227565768568332, guid: de2bfb5fec3e6452d8d2b528065be4be,
+            type: 3}
+          uiSprite: 0
+        - icon: {fileID: 649699720189203824, guid: 1fcee0266a4594442878242275004768,
+            type: 3}
+          uiSprite: 0
+      CountDrawer:
+        count: 15
+      NotFinishUntilMoveOut: 0
+      ShowTheScoreForStar:
+        ShowTheScore: 0
+    - targetType:
+        type: 0
+      sprites:
+        array:
+        - icon: {fileID: 3104755349103347831, guid: 184e1f54b83be4d56bd5262c7c2395ff,
+            type: 3}
+          uiSprite: 0
+        - icon: {fileID: 6560245413071146215, guid: 39146f59eab0b46eb805c118625de742,
+            type: 3}
+          uiSprite: 0
+        - icon: {fileID: 3638488111321504329, guid: f27ac17b2f7584faeb50d6d28d90965b,
+            type: 3}
+          uiSprite: 0
+        - icon: {fileID: -107571685721307378, guid: 89737ae6cc9ad481c9671160770ac5e6,
+            type: 3}
+          uiSprite: 0
+      CountDrawer:
+        count: 15
+      NotFinishUntilMoveOut: 0
+      ShowTheScoreForStar:
+        ShowTheScore: 0
+    - targetType:
+        type: 5
+      sprites:
+        array:
+        - icon: {fileID: 21300000, guid: d2ca30adfcc684ce8b15d3e4be9adc46, type: 3}
+          uiSprite: 0
+      CountDrawer:
+        count: 1
+      NotFinishUntilMoveOut: 0
+      ShowTheScoreForStar:
+        ShowTheScore: 0

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7b721e4275c14b53a73241b9d0b256f
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/LeanTween/Documentation/classes/LTBezierPath.html
+  uploadId: 678564

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08a973105887042ab828599b85937afa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Resources/Prefabs/Effects/WinTrail.prefab
+  uploadId: 678564

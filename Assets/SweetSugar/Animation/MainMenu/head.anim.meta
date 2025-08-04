@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 911f8660c9d314971ac2e1514a51cc95
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Animation/MainMenu/head.anim
+  uploadId: 678564

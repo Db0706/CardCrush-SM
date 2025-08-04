@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 096d17943dc9ff643b5b7246890f902a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Prefabs/GUI/MapButtonCoins.prefab
+  uploadId: 678564

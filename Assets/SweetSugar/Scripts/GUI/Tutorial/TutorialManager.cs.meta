@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0c64b2ef6ee0fc64e8bc112f926a3252
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 1700
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Scripts/GUI/Tutorial/TutorialManager.cs
+  uploadId: 678564

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0502416120d34222a714c1051b6ffa6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Animation/MainMenu/happy_face.controller
+  uploadId: 678564

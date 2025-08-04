@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b90e9229fcd902c45b18567bf1f4dbd3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Resources/Scriptable/AdditionalSettings.asset
+  uploadId: 678564

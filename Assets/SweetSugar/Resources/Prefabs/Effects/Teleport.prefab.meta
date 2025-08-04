@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eff0b28fecf86423699a50b882411a4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Resources/Prefabs/Effects/Teleport.prefab
+  uploadId: 678564

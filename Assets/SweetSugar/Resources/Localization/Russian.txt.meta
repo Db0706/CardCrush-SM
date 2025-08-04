@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7671e20a39743476c82683943dee52ec
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Resources/Localization/Russian.txt
+  uploadId: 678564

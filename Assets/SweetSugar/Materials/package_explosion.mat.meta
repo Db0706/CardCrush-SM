@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: faab737df2b4c4f5295b30b609d7bf7d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Materials/package_explosion.mat
+  uploadId: 678564

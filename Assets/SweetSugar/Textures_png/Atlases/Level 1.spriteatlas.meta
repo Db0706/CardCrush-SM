@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0dedd282ceea24c7d920bcd3ce9f4800
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4343727234628468602
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Textures_png/Atlases/Level 1.spriteatlas
+  uploadId: 678564

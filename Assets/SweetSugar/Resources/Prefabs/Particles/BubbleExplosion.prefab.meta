@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 394d31b07183e4f68ae419ebd1a02570
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Resources/Prefabs/Particles/BubbleExplosion.prefab
+  uploadId: 678564

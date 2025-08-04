@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ed571439e83a8c64ab3e7617ffa4e736
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Resources/Prefabs/Effects/NatHit.prefab
+  uploadId: 678564

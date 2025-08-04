@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 045b1a17bc5268b419f9a7fa7af3c2ba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Resources/Prefabs/Particles/PopupScores.prefab
+  uploadId: 678564

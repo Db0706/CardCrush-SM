@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88275db01bfd14dab88d633239e0123d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Resources/Levels/Targets/TargetLevel98.asset
+  uploadId: 678564

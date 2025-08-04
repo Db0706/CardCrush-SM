@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a587f5c2a7ea74580983584155d3bbbc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Resources/Spawners/SpawnerPrefab/Dispenser_Object_.prefab
+  uploadId: 678564

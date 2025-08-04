@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a3b1ce12ff0b8d5498093602066ecd5c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Resources/Prefabs/Particles/FireworkSplashSpiral.prefab
+  uploadId: 678564

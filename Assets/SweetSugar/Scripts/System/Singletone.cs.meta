@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 7d0f515259604cb98d1f0e2d5a7ac400
+timeCreated: 1676112137
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Scripts/System/Singletone.cs
+  uploadId: 678564

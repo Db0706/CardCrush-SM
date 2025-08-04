@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 323fba191c1f74042a50981a5a4c2f67
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 1800
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Scripts/GUI/Boost/BoostIcon.cs
+  uploadId: 678564

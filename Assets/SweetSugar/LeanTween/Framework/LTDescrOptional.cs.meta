@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c1ba8f1ef97134cb39b52ae26678db63
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/LeanTween/Framework/LTDescrOptional.cs
+  uploadId: 678564

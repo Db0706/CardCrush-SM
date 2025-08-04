@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a40c9c2c428a705468855dda352c0a68
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Animation/button_controller.controller
+  uploadId: 678564

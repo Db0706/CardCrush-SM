@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3492900383798428db451eda099a7fd0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Scripts/System/Orientation/OrientationCamera.prefab
+  uploadId: 678564

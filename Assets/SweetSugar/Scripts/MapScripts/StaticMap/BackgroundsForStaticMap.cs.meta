@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b06d26ed9d604195bc637ceadb3ee893
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 2100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Scripts/MapScripts/StaticMap/BackgroundsForStaticMap.cs
+  uploadId: 678564

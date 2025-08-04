@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9f4d93810c93443b29abaa8de8eff3c0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 98823
+  packageName: Sweet Candy Sugar Match 3
+  packageVersion: 1.6.8
+  assetPath: Assets/SweetSugar/Scripts/LinqConstructor/AnyFieldInspector/Editor/GuiList.cs
+  uploadId: 678564
